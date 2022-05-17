@@ -28,8 +28,8 @@ Music composition has long been a part of the video game experience with game de
 
 ## Getting Started
 ### Running Online
-The project is currently hosted [online](http://geoteci.engr.ccny.cuny.edu/~pec21/). We'd love for you to try it out and give [feedback](https://github.com/Matthew1172/MusicGenerator/issues)! Running the project is as simple as selecting the paremeters you want and pressing generate.
-<img src="https://imgur.com/eZBEPdJ.png" alt="online_demo" style="width:200px;"/>
+The project is currently hosted [online](http://geoteci.engr.ccny.cuny.edu/~pec21/). We'd love for you to try it out and give [feedback](https://github.com/Matthew1172/MusicGenerator/issues)! Running the project is as simple as selecting the paremeters you want and pressing generate.\
+<img src="https://imgur.com/eZBEPdJ.png" alt="online_demo" style="width:600px;"/>
 ### Running Locally
 This section will be updated with more information in the future.
 
